@@ -1,4 +1,5 @@
 mi_variable = 12
+data = 123
 print(mi_variable)
 
 mi_variable2 = 'dario'
