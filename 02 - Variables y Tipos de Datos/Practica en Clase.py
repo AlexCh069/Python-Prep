@@ -13,5 +13,5 @@ mi_complejo = 5 + 7j
 print(mi_complejo)
 
 
-mi_numero = input('Ingrese un valor')
-print('el valor ingresado fue', mi_numero)
+mi_numero = input('Ingrese un valor: ')
+print(f'el valor ingresado fue {mi_numero}')
